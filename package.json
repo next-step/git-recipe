@@ -1,0 +1,19 @@
+{
+  "name": "git-recipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/next-step/git-recipe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/next-step/git-recipe/issues"
+  },
+  "homepage": "https://github.com/next-step/git-recipe#readme"
+}
